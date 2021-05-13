@@ -1,3 +1,9 @@
 .logo{
     width:100px;
 }
+
+.flex-container{
+    display: flex;
+    max-width: 1300px;
+    margin: auto;
+}
