@@ -1,5 +1,3 @@
 # junio aulas
 
-ola pessoal
-
-bom dia 
+Processo de aprendizado
