@@ -1,0 +1,8 @@
+.logo{
+    width:100px;
+}
+
+.row{
+    align-items: center;
+    justify-content: space-around;
+} 
